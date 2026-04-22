@@ -1,4 +1,2 @@
 streamlit
-google.generativeai
-speach_recognition
 pandas
